@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- App & Drawer -->
+    <string name="app_name">FirebaseNavDemo</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_items">Items</string>
+    <string name="nav_account">Account</string>
+    <string name="nav_language">Language</string>
+    <string name="nav_logout">Log out</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- Home -->
+    <string name="home_title">Welcome to FirebaseNavDemo</string>
+    <string name="home_body">This demo app showcases:
+• Splash screen with branding
+• Firebase Email/Password authentication
+• Navigation drawer with multiple fragments
+• Firestore-backed list (add &amp; swipe-to-delete)
+Use the drawer to explore each feature.</string>
+
+    <!-- Language -->
+    <string name="select_language">Select Language</string>
+    <string name="apply">Apply</string>
+
+    <!-- Items / Dialog -->
+    <string name="add_item">Add Item</string>
+    <string name="title">Title</string>
+    <string name="subtitle">Subtitle</string>
+    <string name="title_required">Title is required</string>
+
+    <!-- Account -->
+    <string name="delete_all">Delete all my items</string>
+    <string name="all_deleted">All items deleted</string>
+    <string name="no_items">No items to delete</string>
+    <string name="no_user">No user found</string>
+
+    <!-- Login / Signup -->
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Log in</string>
+    <string name="create_account">Create Account</string>
+    <string name="signing_in">Signing in…</string>
+    <string name="auth_failed">Authentication failed</string>
+    <string name="register_account">Register Account</string>
+    <string name="registering">Registering…</string>
+    <string name="registration_failed">Registration failed</string>
+    <string name="already_have_account">Already have an account?</string>
+
+    <!-- Toasts / UI text -->
+    <string name="added_success">Item added successfully</string>
+    <string name="deleted_success">Item deleted successfully</string>
+    <string name="empty_field">Please fill out all fields</string>
+
+</resources>

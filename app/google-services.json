@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1074874379741",
+    "project_id": "fir-navdemo",
+    "storage_bucket": "fir-navdemo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074874379741:android:5eaf5042857ad75ae11a34",
+        "android_client_info": {
+          "package_name": "com.example.firebasenavdemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmwV_1g0_x2Dg46XiTeP0JxMZAjggrk4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

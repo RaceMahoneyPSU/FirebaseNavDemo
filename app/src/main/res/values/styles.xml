@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Widget.FirebaseNavDemo.NavActiveIndicator" parent="">
+        <item name="android:drawable">@drawable/nav_active_indicator</item>
+    </style>
+</resources>

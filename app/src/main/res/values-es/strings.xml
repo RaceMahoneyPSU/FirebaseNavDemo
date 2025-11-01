@@ -1,0 +1,56 @@
+<resources>
+    <!-- App & Drawer -->
+    <string name="app_name">FirebaseNavDemo</string>
+    <string name="nav_home">Inicio</string>
+    <string name="nav_items">Artículos</string>
+    <string name="nav_account">Cuenta</string>
+    <string name="nav_language">Idioma</string>
+    <string name="nav_logout">Cerrar sesión</string>
+    <string name="navigation_drawer_open">Abrir menú de navegación</string>
+    <string name="navigation_drawer_close">Cerrar menú de navegación</string>
+
+    <!-- Home -->
+    <string name="home_title">Bienvenido a FirebaseNavDemo</string>
+    <string name="home_body">Esta app de demostración incluye:
+• Pantalla de inicio con marca
+• Autenticación con correo/contraseña (Firebase)
+• Menú lateral con varios fragmentos
+• Lista conectada a Firestore (agregar y deslizar para borrar)
+Usa el menú para explorar cada función.</string>
+
+    <!-- Language -->
+    <string name="select_language">Seleccionar idioma</string>
+    <string name="apply">Aplicar</string>
+
+    <!-- Items / Dialog -->
+    <string name="add_item">Agregar artículo</string>
+    <string name="title">Título</string>
+    <string name="subtitle">Subtítulo</string>
+    <string name="title_required">Se requiere un título</string>
+
+    <!-- Account -->
+    <string name="delete_all">Borrar todos mis artículos</string>
+    <string name="all_deleted">Todos los artículos borrados</string>
+    <string name="no_items">No hay artículos para borrar</string>
+    <string name="no_user">Sin usuario</string>
+
+    <!-- Login (section 4 below) -->
+    <string name="email">Correo</string>
+    <string name="password">Contraseña</string>
+    <string name="login">Iniciar sesión</string>
+    <string name="create_account">Crear cuenta</string>
+    <string name="signing_in">Iniciando sesión…</string>
+    <string name="auth_failed">Error de autenticación</string>
+
+    <!-- Signup -->
+    <string name="register_account">Registrar cuenta</string>
+    <string name="registering">Registrando…</string>
+    <string name="registration_failed">Error de registro</string>
+    <string name="already_have_account">¿Ya tienes una cuenta?</string>
+
+    <!-- Toasts / UI text -->
+    <string name="added_success">Artículo agregado correctamente</string>
+    <string name="deleted_success">Artículo eliminado correctamente</string>
+    <string name="empty_field">Por favor, completa todos los campos</string>
+
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <!-- Brand colors -->
+    <color name="splash_bg">#FFF2EFFF</color>
+    <color name="primaryColor">#FF6F00</color>  <!-- deep orange -->
+    <color name="onPrimaryColor">#FFFFFF</color>
+    <color name="secondaryColor">#FF3D00</color> <!-- fire red -->
+    <color name="onSecondaryColor">#FFFFFF</color>
+
+    <color name="secondaryContainer">#FFE0B2</color>     <!-- light warm orange -->
+    <color name="onSecondaryContainer">#4A2A00</color>
+
+    <!-- Backgrounds / surfaces -->
+    <color name="backgroundColor">#FFF5E6</color>
+    <color name="onBackgroundColor">#1A1A1A</color>
+    <color name="surfaceColor">#FFE0B2</color>
+    <color name="onSurfaceColor">#1A1A1A</color>
+
+    <color name="nav_active_indicator">#1AFF6F00</color>
+
+</resources>
